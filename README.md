@@ -36,6 +36,7 @@ This is a text editor web app that allows multiple users to edit the same docume
 1. Run the client
 
     ```bash
+    cd ..
     cd client
     npm install
     npm run cli-dev
